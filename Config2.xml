@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BreakpointCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Breakpoints>
+    <Breakpoint>
+      <Version>15</Version>
+      <IsEnabled>1</IsEnabled>
+      <IsVisible>1</IsVisible>
+      <IsEmulated>0</IsEmulated>
+      <IsCondition>0</IsCondition>
+      <IsProductionBps>0</IsProductionBps>
+      <ConditionType>WhenTrue</ConditionType>
+      <LocationType>AddressLocation</LocationType>
+      <TextPosition>
+        <Version>0</Version>
+        <startLine>0</startLine>
+        <StartColumn>0</StartColumn>
+        <EndLine>0</EndLine>
+        <EndColumn>0</EndColumn>
+        <MarkerId>0</MarkerId>
+        <IsLineBased>0</IsLineBased>
+        <IsDocumentPathNotFound>0</IsDocumentPathNotFound>
+        <ShouldUpdateTextSpan>0</ShouldUpdateTextSpan>
+        <Checksum>
+          <Version>0</Version>
+          <Algorithm>00000000-0000-0000-0000-000000000000</Algorithm>
+          <ByteCount>0</ByteCount>
+        </Checksum>
+      </TextPosition>
+      <NamedLocationText>
